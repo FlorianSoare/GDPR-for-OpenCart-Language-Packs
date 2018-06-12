@@ -83,14 +83,14 @@ $_['text_button_cancel_deletion'] = 'NU, lasati datele personale intacte';
 
 
 // GDPR Compliance 1.1/2.1./3.1
-$_['text_order'] = 'Order';
-$_['text_personal_data'] = 'Guest Personal Data';
-$_['text_personal_data_helper'] = 'If the customer is not registered, there still may be some data for this particular email in our database. You will see here information that we were able to pull from the orders table.';
-$_['text_payment_view_data'] = 'Payment Information';
-$_['text_shipping_view_data'] = 'Shipping Information';
-$_['text_order_view_data'] = 'Order Information';
-$_['text_user_agent'] = 'User Agent';
-$_['text_accept_language'] = 'Accept Language';
+$_['text_order'] = 'Comanda';
+$_['text_personal_data'] = 'Date Personale Musafir';
+$_['text_personal_data_helper'] = 'Daca un client nu este inregistrat este posibil sa existe cateva date asociate acestei adrese de e-mail in baza noastra de date. Vei vedea aici informatiile pe care le avem asociate din tabelul de comenzi.';
+$_['text_payment_view_data'] = 'Informatii despre Plata';
+$_['text_shipping_view_data'] = 'Informatii despre Transport';
+$_['text_order_view_data'] = 'Informatii despre comanda';
+$_['text_user_agent'] = 'Agent Utilizator';
+$_['text_accept_language'] = 'Accepta Limba';
 
 // GDPR Compliance 1.2/2.2./3.2
 $_['text_cookie_settings_header'] = 'Choose Type of Cookies You Accept Using';
